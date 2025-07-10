@@ -1,0 +1,7 @@
+# .gitignore
+.env                # Exclut le fichier de variables d'environnement
+# *.csv               # Exclut tous les CSV (si vous ne voulez pas les versionner)
+# *.xlsx              # Exclut les fichiers Excel
+__pycache__/        # Dossier de cache Python
+venv/               # Environnement virtuel
+# .ipynb_checkpoints/ # Cache des notebooks Jupyter
